@@ -23,13 +23,14 @@ This is a **React TypeScript** application created using **Vite**. It allows use
 
 ### **Pagination**  
 ![Pagination](https://github.com/sachinthacham/irusri-book-api/blob/main/book-app/src/assets/screenshots/screen2.png)  
-*Easily navigate through search results using pagination.*
+*A search page allows users to find books by title, category, and language.*
+
 
 ---
 
 ### **Book Details Modal**  
 ![Book Details Modal](https://github.com/sachinthacham/irusri-book-api/blob/main/book-app/src/assets/screenshots/screen4.png)  
-
+*Easily navigate through search results using pagination.*
 
 ---
 
