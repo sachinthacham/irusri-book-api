@@ -41,11 +41,13 @@ const ExpandableCard = ({ dataList, name }: FilterData) => {
       className={`w-60 p-4 bg-white border rounded-lg shadow-md cursor-pointer 
         ${isExpanded ? "h-auto" : "h-30"} 
         transition-all duration-300 ease-in-out`}
-      onClick={() => setIsExpanded(!isExpanded)}
     >
       <div className="flex justify-between items-center">
         <div className="relative">{name}</div>
-        <div className="text-center mt-2 text-xl ">
+        <div
+          className="text-center mt-2 text-xl "
+          onClick={() => setIsExpanded(!isExpanded)}
+        >
           {isExpanded ? "-" : "+"}
         </div>
       </div>
