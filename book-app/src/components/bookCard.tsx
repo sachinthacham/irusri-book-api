@@ -23,5 +23,4 @@ const BookCard: React.FC<BookCardProps> = ({ image, title, onOpenModal }) => {
     </div>
   );
 };
-
 export default BookCard;
