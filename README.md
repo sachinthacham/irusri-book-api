@@ -46,15 +46,32 @@ This is a **React TypeScript** application created using **Vite**. It allows use
 - 🌐 **Axios**  
 - 📚 **Google Books API**  
 
+## **Folder Structure**  
+```plaintext
+
 src/
-├── assets/               # Static assets like images
-├── components/           # Reusable components (BookCard, Pagination, etc.)
-├── context/              # Context for managing app-wide state
-├── pages/                # Main pages of the app
-├── App.tsx               # Root component
-├── main.tsx              # Entry point for the app
-└── index.css             # Tailwind CSS imports
-  
+├── assets/              # Static assets like images
+├── components/          # Reusable components (BookCard, Pagination, etc.)
+├── context/             # Context for managing app-wide state
+├── pages/               # Main pages of the app
+├── App.tsx              # Root component
+├── main.tsx             # Entry point for the app
+└── index.css            # Tailwind CSS imports
+
+## **Setup Instructions**  
+
+### **Clone the repository:**  
+git clone https://github.com/your-username/your-repo-name.git  
+cd your-repo-name 
+
+Install dependencies:
+npm install  
+
+Run the app locally:
+npm run dev  
+
+
+
 
 
 
