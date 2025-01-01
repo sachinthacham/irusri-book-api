@@ -28,10 +28,15 @@ This is a **React TypeScript** application created using **Vite**. It allows use
 ---
 
 ### **Book Details Modal**  
-![Book Details Modal](https://github.com/sachinthacham/irusri-book-api/blob/main/book-app/src/assets/screenshots/screen3.png)  
-*View detailed information about a book in a modal.*
+![Book Details Modal](https://github.com/sachinthacham/irusri-book-api/blob/main/book-app/src/assets/screenshots/screen4.png)  
+
 
 ---
+
+### **Book Details Modal**  
+![Filter methods](https://github.com/sachinthacham/irusri-book-api/blob/main/book-app/src/assets/screenshots/screen3.png)  
+*View detailed information about a book in a modal.*
+
 
 ## **Technologies Used**  
 - ⚛️ **React (with TypeScript)**  
