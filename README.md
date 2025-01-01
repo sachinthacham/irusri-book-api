@@ -9,7 +9,7 @@ Pagination for smooth navigation through search results.
 Modal view for detailed book information.
 Graceful handling of errors and no-result scenarios.
 
-![Search Page](src/assets/screenshots/screen01.png)
+![Search Page](https://github.com/sachinthacham/irusri-book-api/blob/main/book-app/src/assets/screenshots/screen01.png)
 *A search page allows users to find books by title, category, and language.*
 
 ![pagination](src/assets/screenshots/screen2.png)
