@@ -13,8 +13,7 @@ export const languages = [
 ];
 
 export const categories = [
-  { name: "Language Arts & Disciplines", code: "Language Arts & Disciplines" },
   { name: "Medical", code: "Medical" },
   { name: "Computers", code: "Computers" },
-  { name: "Animal Welfare", code: "Animal Welfare" },
+  { name: "Internet", code: "Internet" },
 ];
